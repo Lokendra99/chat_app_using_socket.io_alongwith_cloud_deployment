@@ -7,13 +7,13 @@ https://www.sitepoint.com/node-js-mvc-application/
 
 ## Functionalites on which it has been built -
 
-Node.js     
-express.js   - as a framework 
-mongoDB      - database for saving all type of messages and user personal information
-Jade         - as server side rendering template
-Socket.io    - for Websockets and real time communication
-AWS EC2 Instance
-nginx as a server 
+* Node.js     
+* express.js   - as a framework 
+* mongoDB      - database for saving all type of messages and user personal information
+* Jade         - as server side rendering template
+* Socket.io    - for Websockets and real time communication
+* AWS EC2 Instance
+* nginx as a server 
 
 Note :In order to use this webApp on your localhost,simpy download the repository and perform
 the following commands in the terminal(make sure the path is set to whehre this repository has been downloaded )
