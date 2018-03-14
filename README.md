@@ -21,7 +21,7 @@ the following commands in the terminal(make sure the path is set to whehre this 
 npm install --save
 node index.js
 ```
-This will run the app on [localhost:3000](http:localhost:3000)
+This will run the app on [localhost:3000](http:localhost:3000/signUpPage)
 
 
 ## Steps to use this one to one chatApp built primarily on socket.io.
