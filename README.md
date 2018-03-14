@@ -2,13 +2,32 @@
 
 Live Demo:http://ec2-13-127-221-29.ap-south-1.compute.amazonaws.com/signUpPage
 
-Functionalites on which it has been built -
+The chatApp is based on MVC structure.Users whoe are new to MVC can read about it here.
+https://www.sitepoint.com/node-js-mvc-application/
+
+## Functionalites on which it has been built -
+
+Node.js     
+express.js   - as a framework 
+mongoDB      - database for saving all type of messages and user personal information
+Jade         - as server side rendering template
+Socket.io    - for Websockets and real time communication
+AWS EC2 Instance
+nginx as a server 
+
+Note :In order to use this webApp on your localhost,simpy download the repository and perform
+the following commands in the terminal(make sure the path is set to whehre this repository has been downloaded )
+```
+npm install --save
+node index.js
+```
+This will run the app on [localhost:3000](http:localhost:3000)
 
 
-
-# Steps to use this one to one chatApp built primarily on socket.io.
+## Steps to use this one to one chatApp built primarily on socket.io.
 
 ## Step1
+
 First thing first,you need to signup in order to use the chap by visiting http://ec2-13-127-221-29.ap-south-1.compute.amazonaws.com/signUpPage.
 
 Those who have signed up can go and login at this link http://ec2-13-127-221-29.ap-south-1.compute.amazonaws.com/loginPage
@@ -41,8 +60,10 @@ Soon again they both can use the functionalities mentioned below-
 
 1. Both user will be notified about logging In/logging Out 
 2. If one is typing another will get notfication that he is typing.
-3. User can share images(upto 3-5 mb) and videos (3 -5 mb).
-4. user can even share thier location.
+3. User can share images(upto 3-5 mb) and videos (3 -5 mb)too.
+4. User can even share thier location.(this fetaure can be used on localhost and if yu want to use it on other online servers ,please make your site secured(https).
+
+
 
 
 
