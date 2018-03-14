@@ -54,7 +54,7 @@ if there is an existing user who wants to chat with someone whom he has already 
 ### Screenshot3
 ![screen shot 2018-03-14 at 12 38 39 pm](https://user-images.githubusercontent.com/16476315/37387994-b135df30-2784-11e8-956a-f0d3d6af479c.png)
 
-He( let's say User A) can choose any(let's say User B) of them and he will land up in chatRoom. now if at the same time UserB also likes to chat with User A he can go ahead an choose User A name from his "friends list".As both are online at the same time,they will be land up in same room(this is because of the configuration made by me in the script).
+He( let's say User A) can choose any(let's say User B) of them and he will land up in chatRoom. now if at the same time UserB also likes to chat with User A he can go ahead and choose User A name from his "friends list".As both are online at the same time,they will be land up in same room(this is because of the configuration made by me in the script).
 
 Soon again they both can use the functionalities mentioned below-
 
@@ -63,6 +63,7 @@ Soon again they both can use the functionalities mentioned below-
 3. User can share images(upto 3-5 mb) and videos (3 -5 mb)too.
 4. User can even share thier location.(this fetaure can be used on localhost and if yu want to use it on other online servers ,please make your site secured(https).
 
+![screen shot 2018-03-14 at 3 41 51 pm](https://user-images.githubusercontent.com/16476315/37396272-6e5d9774-279e-11e8-876b-74e184fff704.png)
 
 
 
